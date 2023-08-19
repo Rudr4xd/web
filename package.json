@@ -1,0 +1,30 @@
+{
+  "name": "Web-tool",
+  "version": "2.1.0",
+  "description": "Canvo tool by Mr Chand",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mrchandu7/Web.git"
+  },
+  "keywords": [
+    "Web-Tool",
+    "Canvo-Tool",
+    "Web-to-web",
+    "tool"
+  ],
+  "author": "Chand tricker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mrchandu7/Web/issues"
+  },
+  "homepage": "https://github.com/Mrchandu7/Web #readme",
+  "dependencies": {
+    "chalk": "2.0",
+    "fca-unofficial": "^1.3.10",
+    "prompt": "^1.3.0"
+  }
+}
